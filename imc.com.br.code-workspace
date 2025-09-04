@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../imc.com.br"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../projeto1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto1"
+	}
+}
